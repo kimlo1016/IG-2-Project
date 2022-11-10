@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 2360833118284785629}
   - component: {fileID: 5284483921931427862}
   m_Layer: 0
-  m_Name: RadialMenuCanvas
+  m_Name: NEW_RadialMenuCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

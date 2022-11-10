@@ -1194,14 +1194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _radialMenu: {fileID: 2631400541743211795}
-  _upButton: {fileID: 2631400541712680391}
-  _downButton: {fileID: 2631400541583096077}
-  _leftButton: {fileID: 2631400542385888651}
-  _rightButton: {fileID: 2631400540566832638}
-  _defaultButton: {fileID: 2631400541528014863}
+  _cursor: {fileID: 0}
   _feelingImage: {fileID: 0}
-  _upButtonImage: {fileID: 2631400541519338402}
-  _downButtonImage: {fileID: 2631400542406013979}
-  _leftButtonImage: {fileID: 2631400540549633304}
-  _rightButtonImage: {fileID: 2631400541914808769}
-  _defaultButtonImage: {fileID: 2631400541946101095}
+  _buttonOneImages: []
+  _buttonOnes: []
